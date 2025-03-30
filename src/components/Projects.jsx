@@ -6,6 +6,14 @@ const Projects = () => {
   const projects = [
     {
       id: 1,
+      title: 'NeoPad Code Editor ⚡',
+      description: 'Editor de código moderno con resaltado de sintaxis, autocompletado inteligente y temas personalizables',
+      image: 'src/assets/neopad.png',
+      tags: ['React', 'TypeScript', 'Monaco Editor', 'Electron'],
+      github: 'https://github.com/ilyklain/NeoPad-Code-Editor'
+    },
+    {
+      id: 2,
       title: 'Rack Ball 🎱',
       description: 'Réplica avanzada de 8 Ball Pool con físicas realistas, multijugador y economía en tiempo real',
       image: '../assets/rackball.png',
@@ -28,14 +36,7 @@ const Projects = () => {
       tags: ['HTML', 'CSS', 'JavaScript', 'Animations'],
       github: 'https://github.com/ilyklain/Ranked-Test'
     },
-    {
-      id: 4,
-      title: 'ClashMC Bot 🤖',
-      description: 'Bot de Discord con sistema de tickets, logs, tags para anuncios y otras funciones para mejorar la experiencia del servidor',
-      image: '../assets/cbot.png',
-      tags: ['Discord.js', 'Node.js', 'SQLite'],
-      github: 'https://github.com/ilyklain/ClashMC-Bot'
-    }
+
   ]
 
   return (
