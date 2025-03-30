@@ -8,35 +8,34 @@ const Projects = () => {
       id: 1,
       title: 'NeoPad Code Editor ⚡',
       description: 'Editor de código moderno con resaltado de sintaxis, autocompletado inteligente y temas personalizables',
-      image: 'src/assets/neopad.png',
+      image: './assets/neopad.jpg', // Cambiado de '/assets/neopad.jpg'
       tags: ['React', 'TypeScript', 'Monaco Editor', 'Electron'],
-      github: 'https://github.com/ilyklain/NeoPad-Code-Editor'
+      github: 'https://github.com/ilyklain/neopad'
     },
     {
       id: 2,
       title: 'Rack Ball 🎱',
       description: 'Réplica avanzada de 8 Ball Pool con físicas realistas, multijugador y economía en tiempo real',
-      image: '../assets/rackball.png',
+      image: './assets/rackball.jpg', // Cambiado de '/assets/rackball.jpg'
       tags: ['Unity', 'C#', 'Multiplayer', 'Physics'],
       github: 'https://github.com/ilyklain/RackBall-Development-'
     },
     {
-      id: 2,
+      id: 3, 
       title: 'ClashMC Website 🌐',
       description: 'Web profesional con animaciones dinámicas y una paleta azul-morado, diseñada para presentar la red ClashMC',
-      image: '../assets/clashmc.png',
+      image: './assets/clashweb.jpg', // Cambiado de '/assets/clashweb.jpg'
       tags: ['React', 'Tailwind CSS', 'Framer Motion'],
       github: 'https://github.com/ilyklain/ClashMC-Web'
     },
     {
-      id: 3,
+      id: 4, 
       title: 'Ranked Network Website ⚔️',
       description: 'Sitio web en HTML, CSS y JavaScript con animaciones, URLs limpias y detalles sobre HCF, KitMap y Practice',
-      image: '../assets/ranked.png',
+      image: './assets/rankedweb.jpg', // Cambiado de '/assets/rankedweb.jpg'
       tags: ['HTML', 'CSS', 'JavaScript', 'Animations'],
       github: 'https://github.com/ilyklain/Ranked-Test'
     },
-
   ]
 
   return (
