@@ -32,7 +32,7 @@ const Projects = () => {
       id: 4,
       title: 'ClashMC Bot 🤖',
       description: 'Bot de Discord con sistema de tickets, logs, tags para anuncios y otras funciones para mejorar la experiencia del servidor',
-      image: '../assets/cbot.png',
+      image: 'src/assets/cbot.png',
       tags: ['Discord.js', 'Node.js', 'SQLite'],
       github: 'https://github.com/ilyklain/ClashMC-Bot'
     }
