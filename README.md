@@ -1,12 +1,48 @@
-# React + Vite
+# 🚀 Portafolio de Gustavo
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este es mi portafolio personal donde muestro mis proyectos, habilidades y experiencia como **Full Stack Developer**. Aquí puedes encontrar información sobre los proyectos en los que he trabajado, mis conocimientos en diferentes tecnologías y cómo contacto conmigo.
 
-Currently, two official plugins are available:
+## 🔥 Características
+- 🌐 **Diseño moderno y minimalista** con una interfaz intuitiva.
+- 🎨 **Animaciones fluidas y atractivas** para mejorar la experiencia del usuario.
+- 📱 **Totalmente responsive**, adaptado a cualquier dispositivo.
+- ⚡ **Optimización para alto rendimiento** con tiempos de carga reducidos.
+- 🔍 **SEO optimizado** para mejorar la visibilidad en buscadores.
+- 🛠️ **Código limpio y escalable** para futuras mejoras y mantenimiento.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tecnologías utilizadas
+- **Front-End:** React.js, Next.js, TailwindCSS.
+- **Back-End:** Node.js, Express.
+- **Base de Datos:** MySQL.
+- **Despliegue:** Vercel para el front-end y Railway para el back-end.
+- **Herramientas adicionales:** GSAP para animaciones, API de EmailJS para formularios de contacto.
 
-## Expanding the ESLint configuration
+## 🚀 Proyectos destacados
+- **RackBall**: Réplica de *8 Ball Pool* con físicas avanzadas y multijugador.
+- **NeoPad Code Editor**: Editor de código online con detección automática de lenguaje.
+- **Ranked Network Website**: Sitio web animado y minimalista para una red de servidores Minecraft.
+- **ClashMC Bot**: Bot de Discord con administración automatizada y sistema de tickets.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📌 Instalación y Uso
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/tuusuario/portafolio.git
+   cd portafolio
+   ```
+2. Instala las dependencias:
+   ```bash
+   npm install
+   ```
+3. Inicia el servidor de desarrollo:
+   ```bash
+   npm run dev
+   ```
+4. Abre tu navegador en `http://localhost:3000` para ver el proyecto en acción.
+
+## 📩 Contacto
+Si estás interesado en colaborar, hacerme preguntas o simplemente conocer más sobre mi trabajo, puedes contactarme a través de:
+- 📧 Email: [strawydev@gmail.com]
+- 🐦 Twitter: [@StrawyDev]
+- 💼 LinkedIn: [Gustavo Jaspe]
+
+¡Gracias por visitar mi portafolio! 🚀
