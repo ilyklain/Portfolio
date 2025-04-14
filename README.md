@@ -26,7 +26,7 @@ Este es mi portafolio personal donde muestro mis proyectos, habilidades y experi
 ## 📌 Instalación y Uso
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/portafolio.git
+   git clone https://github.com/ilyklain/portafolio.git
    cd portafolio
    ```
 2. Instala las dependencias:
