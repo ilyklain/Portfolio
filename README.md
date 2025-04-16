@@ -1,4 +1,4 @@
-# 🚀 Portafolio de Gustavo
+# 🚀 Portafolio StrawyDev
 
 Este es mi portafolio personal donde muestro mis proyectos, habilidades y experiencia como **Full Stack Developer**. Aquí puedes encontrar información sobre los proyectos en los que he trabajado, mis conocimientos en diferentes tecnologías y cómo contacto conmigo.
 
