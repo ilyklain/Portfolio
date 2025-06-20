@@ -26,7 +26,7 @@ const About = () => {
   }, [])
 
   const skills = [
-    { name: 'Frontend', items: ['React', 'Vue.js', 'Tailwind CSS', 'TypeScript'] },
+    { name: 'Frontend', items: ['React', 'Vue.js', 'Tailwind CSS', 'TypeScript', 'Astro'] },
     { name: 'Backend', items: ['Node.js', 'Python', 'MongoDB', 'PostgreSQL'] },
     { name: 'DevOps', items: ['Docker', 'AWS', 'CI/CD', 'Git'] },
     { name: 'Tools', items: ['VS Code', 'Figma', 'Postman', 'Jest', 'Trae'] }
